@@ -34,7 +34,7 @@
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/RENISH_lc?theme=dark&font=IBM%20Plex%20Sans%20Arabic)
+![LeetCode Stats](https://leetcard.jacoblin.cool/renish19?theme=light&font=Cairo)
 
 ---
 
