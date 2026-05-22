@@ -2,7 +2,7 @@
 
 # Hello 👋 Renish here,
 
-### A Curious Coder | Passionate Web Developer | Evolving Full Stack Developer
+### A Curious Coder | Passionate AI/ML Engineer | Evolving Data Scientist
 
 </div>
 
