@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - 🏫 I’m a **Computer Science and Engineering student** who loves bringing ideas to life through code.  
-- 💡 Passionate about **web development, logic building, and real-world problem solving**.  
+- 💡 Passionate about **machine learning and AI, logic building, and real-world problem solving**.  
 - ⚡ I believe learning never stops — I keep exploring new tech and building projects that make an impact.  
 - 🔧 Always experimenting, improving, and creating with a purpose.
 
